@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1563249694 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\controlepagamento.cpp
+	"controlePagamento.h"
+
+1563249526 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\controlepagamento.h
+	"pagamentos.h"
+
+1563248568 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\pagamentos.h
+	<iostream>
+
+1563247658 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\data.cpp
+	"data.h"
+	<iostream>
+
+1563240210 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\data.h
+	<iostream>
+
+1563241980 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\horario.cpp
+	"horario.h"
+	<iostream>
+
+1562956970 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\horario.h
+
+1562953880 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\invoice.cpp
+	"invoice.h"
+	<iostream>
+
+1562953870 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\invoice.h
+	<iostream>
+
+1563251887 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\main.cpp
+	<iostream>
+	"pessoa.h"
+	"invoice.h"
+	"data.h"
+	"horario.h"
+	"voo.h"
+	"controlePagamento.h"
+
+1563246448 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\pagamentos.cpp
+	"pagamentos.h"
+
+1563243170 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\pessoa.cpp
+	"pessoa.h"
+	<iostream>
+
+1563250350 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\pessoa.h
+	<iostream>
+
+1563243796 source:c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\voo.cpp
+	"voo.h"
+	<iostream>
+
+1563251869 c:\users\vitor\downloads\faculdade\2019.1\lp1\codigos\lista lp1\lista-lp1\voo.h
+	"data.h"
+	"horario.h"
+

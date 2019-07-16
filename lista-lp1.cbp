@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lista-lp1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lista-lp1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lista-lp1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="controlePagamento.cpp" />
+		<Unit filename="controlePagamento.h" />
+		<Unit filename="data.cpp" />
+		<Unit filename="data.h" />
+		<Unit filename="horario.cpp" />
+		<Unit filename="horario.h" />
+		<Unit filename="invoice.cpp" />
+		<Unit filename="invoice.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pagamentos.cpp" />
+		<Unit filename="pagamentos.h" />
+		<Unit filename="pessoa.cpp" />
+		<Unit filename="pessoa.h" />
+		<Unit filename="voo.cpp" />
+		<Unit filename="voo.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
